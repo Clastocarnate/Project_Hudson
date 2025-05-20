@@ -8,3 +8,8 @@ Version 2.0 of my Head's Up Display Project
 4. Structure Dataset
 5. Train 
 6. Code Gui (Crosshair Logic)
+
+# Completed
+1. Load videos
+2. Extract frame from videos
+
