@@ -12,4 +12,5 @@ Version 2.0 of my Head's Up Display Project
 # Completed
 1. Load videos
 2. Extract frame from videos
-
+3. save detections from yolo pretrained
+4. Structure Dataset
